@@ -14,6 +14,20 @@ As an output it will display the requested fields from password.
 
 # installation
 
-```
+```bash
 npm i -g @radmen/masked-output
 ```
+
+# usage
+
+```bash
+masked-output
+```
+
+# demo
+
+[![asciicast](https://asciinema.org/a/mc5vQSLXF8J4TjyJRjrXavMnl.png)](https://asciinema.org/a/mc5vQSLXF8J4TjyJRjrXavMnl)
+
+# use it on your own risk!
+
+This is a simple script. Nothing fancy. I don't take any responsibility for it ;)
