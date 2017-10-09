@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "prompt": "^1.0.0"
+  },
+  "bin": {
+    "masked-output": "./index.js"
   }
 }
