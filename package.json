@@ -1,6 +1,6 @@
 {
   "name": "@radmen/masked-output",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Because I hate masked passwords",
   "main": "index.js",
   "devDependencies": {},
